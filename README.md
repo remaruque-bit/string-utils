@@ -1,6 +1,6 @@
 # string-utils
 
-A tiny collection of string helper functions, writen for learning purposes.
+A tiny collection of string helper functions, written for learning purposes.
 
 ## Functions
 

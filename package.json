@@ -1,0 +1,10 @@
+{
+  "name": "string-utils",
+  "version": "1.0.0",
+  "description": "A tiny collection of string helper functions",
+  "main": "stringUtils.js",
+  "scripts": {
+    "test": "node stringUtils.test.js"
+  },
+  "license": "MIT"
+}
